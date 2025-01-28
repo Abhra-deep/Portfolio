@@ -137,9 +137,9 @@ Feel free to reach out if you’d like to discuss any of these projects or if yo
 
 
 
-```
 
-```
+
+
 **Closing Statement**
 
 Thank You for Visiting
@@ -147,11 +147,9 @@ Thank You for Visiting
 Thank you for taking the time to explore my portfolio. I am passionate about solving complex data problems and creating actionable insights to drive business success. Let's collaborate to make data-driven decisions that create meaningful impact.
 
 
-Call-to-Action
+**Call-to-Action**
 
-Let’s Collaborate
-
+Let’s Collaborate,
 If you’re looking for a dedicated and skilled professional for your next data project, don’t hesitate to get in touch. Together, we can build innovative solutions and unlock the true potential of data.
 
 
-```
