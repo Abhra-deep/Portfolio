@@ -1,123 +1,157 @@
+# Data Science Portfolio
+Welcome to my project portfolio! Below is a showcase of some key projects I have worked on, each demonstrating my expertise in data analysis, predictive modeling, and business insights.
+<center><img src='assets/img/chart.png' width="100%" /></center>
+
 ---
-layout: default
+
+## Machine Learning Projects
+
+### Loan Default Risk Analysis and Prediction
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Abhra-deep/Loan-Default-Risk-Analysis-and-Prediction)
+
+**Description**: Analyzed loan data to identify key risk factors leading to defaults.
+
+**Skills**: Data Cleaning, EDA, Predictive Modeling, Risk Analysis  
+**Tools Used**: [Python](https://www.python.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Scikit-learn](https://scikit-learn.org/)  
+**Outcome**: Built a robust model to predict loan defaults, enabling proactive risk management.
+
+<center><img src='assets/img/loan-dfault.png' width="100%" /></center>
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Telecom Churn Case Study
 
-[Link to another page](./another-page.html).
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Abhra-deep/Telecom-Churn-Case-Study)
 
-There should be whitespace between paragraphs.
+**Description**: Developed a churn prediction model for the telecom industry, identifying drivers like price sensitivity, poor network quality, and low engagement.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Skills**: Feature Engineering, Classification Models, Customer Retention Analysis  
+**Tools Used**: [Python](https://www.python.org/), [Scikit-learn](https://scikit-learn.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)  
+**Outcome**: Provided actionable insights to reduce churn and enhance customer loyalty.
 
-# Header 1
+<center><img src='assets/img/telecome.png' width="100%" /></center>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+### Lead Scoring Case Study
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Abhra-deep/Lead-Scoring-Case-Study)
 
-### Header 3
+**Description**: Improved X Education's lead conversion rate (from 30%) by identifying and prioritizing 'Hot Leads'.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+**Skills**: Data Analysis, Logistic Regression, KPI Optimization  
+**Tools Used**: [Python](https://www.python.org/), [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Seaborn](https://seaborn.pydata.org/)  
+**Outcome**: Delivered a scalable lead scoring model, increasing efficiency in lead management.
+
+<center><img src='assets/img/lead scoring (1).png' width="100%" /></center>
+
+---
+
+### Bike Sharing Assignment
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Abhra-deep/Bike-Sharing-Assignment)
+
+**Description**: Developed a demand forecasting model to understand the dynamics of bike rentals in a new market.
+
+**Skills**: Time Series Analysis, Demand Prediction, Regression Modeling  
+**Tools Used**: [Python](https://www.python.org/), [Statsmodels](https://www.statsmodels.org/), [Matplotlib](https://matplotlib.org/)  
+**Outcome**: Helped management with data-driven insights to support business expansion.
+
+<center><img src='assets/img/bike sharing.png' width="100%" /></center>
+
+---
+
+### RSVP Movies Analysis
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Abhra-deep/RSVP_Movies_Analysis)
+
+**Description**: Conducted an in-depth analysis of RSVP Movies data using SQL queries to extract actionable insights.
+
+**Skills**: SQL Querying, Data Analysis, Relational Databases  
+**Tools Used**: [MySQL](https://www.mysql.com/), [Tableau](https://www.tableau.com/)  
+**Outcome**: Provided data-backed recommendations for optimizing movie performance and audience targeting.
+
+<center><img src='assets/img/rvsp movies.png' width="100%" /></center>
+
+---
+
+
+**Key Skills and Technical Expertise**
+
+**Key Skills**
+
+NLP Insights, Text Preprocessing, Language Modeling, Topic Modeling, Text Summarization, Machine Translation
+
+**Technical Skills**
+
+Languages/Tools: Python, SQL, OpenAI API, Flask, Pandas, NumPy, Keras, XGBoost
+
+Cloud Platforms: AWS, GCP
+
+Databases: MongoDB, MySQL, PostgreSQL, SQLite
+
+Libraries/Frameworks: NLTK, TensorFlow, PyTorch, Scikit-learn, Google Natural Language API
+
+
+**Certifications**
+
+Post Graduate Diploma in Data Science, IIIT Bangalore & upGrad(Continue)
+
+Python Bootcamp, Udemy
+
+**Resume**
+
+Data Analytics:
+Advanced insights into large-scale data processing, visualization, and analytics solutions.
+[Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Data%20Analyst%20resume.pdf)
+
+
+Data Engineer:
+Proficient in designing and maintaining data pipelines and ETL processes.
+[Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Data%20Engineer%20resume.pdf)
+
+
+NLP:
+Expertise in text processing, semantic analysis, and language modeling to deliver actionable results.
+[Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/NLP%20Resume.pdf))
+
+
+Ai & ML:
+Skilled in deploying machine learning and artificial intelligence solutions for predictive analytics.
+[Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Ai%20%26%20ML.pdf)
+
+
+Python:
+Extensive experience in Python for machine learning, automation, and software development.
+[Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Python.pdf)
+
+Business Analyst:
+Skilled in interpreting data trends and delivering actionable business strategies to drive growth and improve efficiency.
+[Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Business%20Analyst%20resume.pdf)
+
+**Get in Touch**
+Feel free to reach out if you’d like to discuss any of these projects or if you are interested in collaborating on new ones. You can contact me through [LinkedIn](www.linkedin.com/in/abhradeepchandrapaul) or via email at (abhradeepchandrapaul@gmail.com).
+
+
+
+
+
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
 ```
+**Closing Statement**
 
-#### Header 4
+Thank You for Visiting
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Thank you for taking the time to explore my portfolio. I am passionate about solving complex data problems and creating actionable insights to drive business success. Let's collaborate to make data-driven decisions that create meaningful impact.
 
 
-### Definition lists can be used with HTML syntax.
+Call-to-Action
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Let’s Collaborate
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+If you’re looking for a dedicated and skilled professional for your next data project, don’t hesitate to get in touch. Together, we can build innovative solutions and unlock the true potential of data.
 
-```
-The final element.
+
 ```
