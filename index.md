@@ -123,7 +123,7 @@ Expertise in text processing, semantic analysis, and language modeling to delive
 
 **Ai & ML:**
 
-<center><img src='assets/img/download.jpeg' width="100%" /></center>
+<center><img src='assets/img/ai ml.jpg' width="100%" /></center>
 Skilled in deploying machine learning and artificial intelligence solutions for predictive analytics.
 [Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Ai%20%26%20ML.pdf)
 
