@@ -106,10 +106,9 @@ Data Analytics:
 Advanced insights into large-scale data processing, visualization, and analytics solutions.
 [Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Data%20Analyst%20resume.pdf)
 
+Data Science:
+In-depth expertise in extracting actionable insights from large datasets, applying advanced machine learning algorithms, and building predictive models. Skilled in data preprocessing, feature engineering, and developing scalable analytics solutions to solve complex business problems.[Download the PDF]
 
-Data Engineer:
-Proficient in designing and maintaining data pipelines and ETL processes.
-[Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Data%20Engineer%20resume.pdf)
 
 
 NLP:
@@ -126,9 +125,7 @@ Python:
 Extensive experience in Python for machine learning, automation, and software development.
 [Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Python.pdf)
 
-Business Analyst:
-Skilled in interpreting data trends and delivering actionable business strategies to drive growth and improve efficiency.
-[Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Business%20Analyst%20resume.pdf)
+
 
 **Get in Touch**
 Feel free to reach out if you’d like to discuss any of these projects or if you are interested in collaborating on new ones. You can contact me through [LinkedIn](www.linkedin.com/in/abhradeepchandrapaul) or via email at (abhradeepchandrapaul@gmail.com).
