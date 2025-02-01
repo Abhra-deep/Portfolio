@@ -111,6 +111,9 @@ Python Bootcamp, Udemy
 <center><img src='assets/img/data-analytics.png' width="100%" /></center>
 Advanced insights into large-scale data processing, visualization, and analytics solutions.
 [Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Data%20Analyst%20resume.pdf)
+---
+---
+
 
 **Data Science:**
 
@@ -156,6 +159,8 @@ Feel free to reach out if you’d like to discuss any of these projects or if yo
 
 
 
+---
+---
 
 **Closing Statement**
 
