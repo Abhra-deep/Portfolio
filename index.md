@@ -99,8 +99,12 @@ Libraries/Frameworks: NLTK, TensorFlow, PyTorch, Scikit-learn, Google Natural La
 Post Graduate Diploma in Data Science, IIIT Bangalore & upGrad(Continue)
 
 Python Bootcamp, Udemy
+---
+---
 
 **Resume**
+---
+---
 
 **Data Analytics:**
 
@@ -113,13 +117,16 @@ Advanced insights into large-scale data processing, visualization, and analytics
 <center><img src='assets/img/data scinece.jpg' width="100%" /></center>
 In-depth expertise in extracting actionable insights from large datasets, applying advanced machine learning algorithms, and building predictive models. Skilled in data preprocessing, feature engineering, and developing scalable analytics solutions to solve complex business problems.[Download the PDF](https://github.com/Abhra-deep/Portfolio/tree/master/assets)
 
+---
+---
 
 **NLP:**
 
 <center><img src='assets/img/1_MKsqxsgoS5WXMNc_zQF4wQ.jpg' width="100%" /></center>
 Expertise in text processing, semantic analysis, and language modeling to deliver actionable results.
 [Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/NLP%20Resume.pdf))
-
+---
+---
 
 **Ai & ML:**
 
@@ -127,6 +134,8 @@ Expertise in text processing, semantic analysis, and language modeling to delive
 Skilled in deploying machine learning and artificial intelligence solutions for predictive analytics.
 [Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Ai%20%26%20ML.pdf)
 
+---
+---
 
 **Python:**
 
@@ -135,6 +144,8 @@ Extensive experience in Python for machine learning, automation, and software de
 [Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Python.pdf)
 
 
+---
+---
 
 **Get in Touch**
 Feel free to reach out if you’d like to discuss any of these projects or if you are interested in collaborating on new ones. You can contact me through [LinkedIn](www.linkedin.com/in/abhradeepchandrapaul) or via email at (abhradeepchandrapaul@gmail.com).
