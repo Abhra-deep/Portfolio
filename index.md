@@ -107,8 +107,7 @@ Advanced insights into large-scale data processing, visualization, and analytics
 [Download the PDF](https://github.com/Abhra-deep/minimal/blob/master/assets/img/Data%20Analyst%20resume.pdf)
 
 Data Science:
-In-depth expertise in extracting actionable insights from large datasets, applying advanced machine learning algorithms, and building predictive models. Skilled in data preprocessing, feature engineering, and developing scalable analytics solutions to solve complex business problems.[Download the PDF]
-
+In-depth expertise in extracting actionable insights from large datasets, applying advanced machine learning algorithms, and building predictive models. Skilled in data preprocessing, feature engineering, and developing scalable analytics solutions to solve complex business problems.[Download the PDF](https://github.com/Abhra-deep/Portfolio/tree/master/assets)
 
 
 NLP:
