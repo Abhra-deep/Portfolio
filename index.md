@@ -99,6 +99,7 @@ Libraries/Frameworks: NLTK, TensorFlow, PyTorch, Scikit-learn, Google Natural La
 Post Graduate Diploma in Data Science, IIIT Bangalore & upGrad(Continue)
 
 Python Bootcamp, Udemy
+
 ---
 ---
 
